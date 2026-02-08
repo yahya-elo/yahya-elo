@@ -32,6 +32,13 @@ I build production-grade ERP solutions, integrations, and custom business platfo
 - Real-time inventory updates, order processing automation
 - Custom API integration for WordPress → Odoo 19 data display
 
+**Legacy ERP Remediation & Migration** (Odoo 17 → 19)
+- Reverse-engineered and refactored 2+ year undocumented codebase
+- Migrated production system through major version upgrade (breaking changes in Python, XML, DB schema)
+- Converted raw SQL operations to ORM standards, eliminated hardcoded references
+- Developed XML-RPC migration scripts for complete transactional data history
+- Created technical documentation for previously undocumented system
+
 ## 🛠️ Tech Stack
 
 **Backend:** Python, Odoo Framework (v14-19), PostgreSQL, SQL Optimization  
