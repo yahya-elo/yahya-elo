@@ -4,33 +4,47 @@
 
 ## 🔧 What I Do
 
-I build production-grade ERP solutions and integrations:
-- **Odoo Development** (v16-19): Custom modules, API integrations, performance optimization
+I build production-grade ERP solutions, integrations, and custom business platforms:
+- **Odoo Development** (v14-19): Custom modules, complex workflows, UI/UX customization
+- **API Integration**: Multi-carrier systems, WordPress/WooCommerce connectors, REST APIs
 - **IoT & Real-Time Systems**: Industrial data synchronization, WebSocket implementations
-- **REST API Architecture**: Headless ERP backends, JWT authentication, secure endpoints
+- **Headless Architecture**: Decoupled ERP backends with JWT authentication
 
-## 💼 Recent Work
+## 💼 Featured Projects
 
-**IoT Synchronization System** (Odoo 17 + Python)
-- Real-time data sync from industrial controllers → Odoo ERP
-- Processed 3600+ entries/min, optimized to 7-10 DB inserts/min
-- Zero data loss in production environment
+**Maritime Freight & Logistics Platform** (Odoo 18 + React)
+- Complete freight forwarding system with multi-carrier API integration (CMA CGM, MAERSK)
+- Real-time tracking, multi-currency invoicing, automated document generation
+- Custom REST API, JWT auth, WebSockets, granular role-based access control
 
-**Headless Logistics ERP** (Odoo 18 + React)
-- Full RESTful API decoupling Odoo backend from React frontend
-- JWT authentication, multi-currency handling, real-time notifications
+**Multi-Station IoT System** (Odoo 17 + Python)
+- Scalable industrial controller synchronization (3+ stations, 3600+ entries/min per station)
+- Delta Sync algorithm optimizing DB performance (3600 → 7-10 insertions/min)
+- Real-time "Digital Twin" monitoring dashboards (Odoo OWL)
+
+**Desktop App Migration** (Odoo 16)
+- Replicated legacy desktop application workflow in Odoo web interface
+- Custom keyboard shortcuts and UI behavior using JavaScript and Odoo OWL
+- Zero disruption migration maintaining user productivity
+
+**WordPress/WooCommerce Connectors** (Odoo 14/19)
+- Bi-directional product synchronization between WooCommerce and Odoo 14
+- Real-time inventory updates, order processing automation
+- Custom API integration for WordPress → Odoo 19 data display
 
 ## 🛠️ Tech Stack
 
-**Backend:** Python, Odoo Framework, PostgreSQL, SQL Optimization  
-**API:** REST, JSON-RPC, XML-RPC, JWT, WebSockets  
+**Backend:** Python, Odoo Framework (v14-19), PostgreSQL, SQL Optimization  
+**API:** REST, JSON-RPC, XML-RPC, JWT, WebSockets, Multi-Carrier APIs  
+**Frontend:** JavaScript, Odoo OWL, React Integration  
+**Integration:** WordPress/WooCommerce, Maritime APIs, IoT Controllers  
 **Tools:** Git, Linux, Docker, VS Code, Postman  
 
 ## 📫 Contact
 
 - **Email:** yahya.elo.dev@gmail.com
 - **Location:** Morocco (Remote-friendly)
-- **Available for:** Odoo customization, API development, ERP integrations
+- **Available for:** Odoo customization, API development, ERP integrations, WordPress connectors
 
 ---
 
